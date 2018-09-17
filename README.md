@@ -1,5 +1,9 @@
 # Fatmap Front-end Challenge
 
+Front-end code challenge. 
+
+#### Note: The Off-piste map in the details page will show an error due to an API key that's doesn't has a billing account to it. (Running in dev mode)
+
 ## Build Setup
 
 ``` bash

@@ -21,10 +21,6 @@ export default {
   props: {
     piste: Object
   },
-  methods: {
-    voidClick () {
-    }
-  },
   components: {
     Ratings,
     Difficulty
